@@ -1,0 +1,6 @@
+com.example.projettraduction
+com.example.projettraduction.configuration
+com.example.projettraduction.controleur
+com.example.projettraduction.entities
+com.example.projettraduction.repository
+com.example.projettraduction.service
