@@ -3,6 +3,9 @@
 ## Aperçu
 Ce projet est une API REST développée avec Spring Boot pour gérer les traductions. Il intègre une conception multicouche, des modèles de données robustes, une gestion d'erreurs sophistiquée, ainsi que des tests unitaires pour garantir sa stabilité et sa fiabilité.
 
+![image](https://github.com/GeniaKybalchych/ProjectSpringTranslations/assets/117115542/d6792e91-1f0c-42be-bd2b-6532aae22d36)
+
+
 ## Table des matières
 - [Technologies utilisées](#technologies-utilisées)
 - [Caractéristiques du projet](#caractéristiques-du-projet)
